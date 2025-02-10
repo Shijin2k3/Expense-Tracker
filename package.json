@@ -1,7 +1,7 @@
 {
   "name": "expensetracker",
   "private": true,
-  "homepage": "https://Shijin2k3.github.io/Expense-Tracker",
+  "homepage": "./",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
