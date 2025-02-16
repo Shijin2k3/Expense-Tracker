@@ -5,7 +5,7 @@ import Income from './Income'
 
 const TransactionList = () => {
   const {incomes,expenses}=useContext(GlobalContext)
-  console.log(Array.isArray(incomes))
+  
   
   
   return (
